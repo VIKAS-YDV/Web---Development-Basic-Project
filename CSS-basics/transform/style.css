@@ -1,0 +1,10 @@
+.box{
+    background-color: cornflowerblue;
+    /* transform: translate( 10px,50px); */
+    /* transform: rotate(-20deg); */
+    margin:200px;
+    /* transform: scale(1.6,6.5);
+    transform: scaleX(2);
+    transform: scaleY(4); */
+    transform: skew(-30deg);
+}

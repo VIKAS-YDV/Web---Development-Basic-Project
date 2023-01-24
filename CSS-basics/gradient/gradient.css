@@ -1,0 +1,24 @@
+.box{
+    border: solid black;
+    height: 300px;
+    width: 400px;
+    background: linear-gradient( to bottom,red,green);
+    background: linear-gradient( to left,red,green);
+    background: linear-gradient( to right,red,green);
+    background: linear-gradient( to bottom left,red,green);
+    background: linear-gradient( to bottom right,red,green);
+    background: linear-gradient(90deg, red,green);
+
+}
+
+#b{
+    border: solid black;
+    margin: 30px;
+    height: 300px;
+    width: 300px;
+    background-image: radial-gradient(circle,red,blue,orange);
+background-image: radial-gradient(circle,green 45%,red 60%,orange 22%);
+
+}
+
+  

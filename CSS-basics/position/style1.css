@@ -1,0 +1,27 @@
+div{
+    display:inline-block ;
+    width:150px;
+    height: 200px;
+    border: solid black;
+    background-color: darkgreen;
+}
+#c{
+    position:absolute;
+    left:20px; 
+    right: 50px;
+    top: 100px;
+}
+
+/* #c{
+    position: fixed;
+} */
+
+#b{
+position: sticky;
+top: 10px;
+}
+.wrap{
+    height:1000px;
+    width: 800px;
+    background-color: yellow;
+}
